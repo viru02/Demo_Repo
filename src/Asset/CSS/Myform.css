@@ -1,0 +1,22 @@
+.titletxt{
+    display: inline-block;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* .titlewrap{
+    text-align: center;
+} */
+
+.labl{
+    display: inline-block;
+    width: 200px;
+    /* text-align: left; */
+    margin-top: 10px;
+}
+
+.input{
+    display: inline-block;
+    width: 200px;
+    margin-top: 10px;
+}

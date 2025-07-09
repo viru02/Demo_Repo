@@ -1,0 +1,76 @@
+{
+  "jsnData": [
+    {
+      "id": "1",
+      "imgName": "Butterfly-1",
+      "imgPath": "images/14993.jpg"
+    },
+    {
+      "id": "2",
+      "imgName": "bird",
+      "imgPath": "images/bird.jpg"
+    },
+    {
+      "id": "3",
+      "imgName": "Butterfly-2",
+      "imgPath": "images/Butterfly-1.jpg"
+    },
+    {
+      "id": "4",
+      "imgName": "Vacation",
+      "imgPath": "images/Vacation.jpg"
+    },
+    {
+      "id": "5",
+      "imgName": "img1",
+      "imgPath": "images/img-1.jpg"
+    }
+  ],
+  "galleryimgs": [
+    {
+      "name": "Pankaj",
+      "imgpath": "Images/Student_Imgs/Akshay_Limkar.png",
+      "id": "1"
+    },
+    {
+      "name": "Equipments1",
+      "imgpath": "images/gallary/equipments1.jpg",
+      "id": "3"
+    },
+    {
+      "name": "Equipments2",
+      "imgpath": "images/gallary/equipments2.jpg",
+      "id": "4"
+    },
+    {
+      "name": "Equipments3",
+      "imgpath": "images/gallary/equipments3.jpg",
+      "id": "5"
+    },
+    {
+      "name": "Gymbody1",
+      "imgpath": "images/gallary/gymbody1.jpg",
+      "id": "6"
+    },
+    {
+      "id": "461e",
+      "name": "Flower",
+      "imgpath": "Images/Student_Imgs/Aditya.png"
+    },
+    {
+      "id": "7473",
+      "name": "Butterfly",
+      "imgpath": "Images/Student_Imgs/Akshay_Limkar.png"
+    },
+    {
+      "id": "9a81",
+      "name": "Fish",
+      "imgpath": "Images/Student_Imgs/Aditya.png"
+    },
+    {
+      "id": "704f",
+      "name": "Butterfly",
+      "imgpath": "Images/Student_Imgs/Aditya.png"
+    }
+  ]
+}
